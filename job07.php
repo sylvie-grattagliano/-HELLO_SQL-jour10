@@ -41,7 +41,7 @@ $result = $query->fetch();
     </style>
 </head>
 <body>
-<h1> Job 06 Jour 10 <h1>
+<h1> Job 07 Jour 10 <h1>
 <h2 style="text-align: center;">superficie totale des étages</h2>
 
 <table>
